@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "powermode.enabled": false,
+    "workbench.colorTheme": "Default Dark+",
+    "files.associations": {
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "fstream": "cpp"
+
+    }
+    
+        
+}
